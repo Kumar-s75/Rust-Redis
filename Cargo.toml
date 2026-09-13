@@ -1,0 +1,9 @@
+[package]
+name = "rusty-cache"
+version = "0.1.0"
+edition = "2021"
+description = "A small Redis-compatible in-memory database for learning Rust networking and concurrency"
+license = "MIT"
+
+[dependencies]
+
